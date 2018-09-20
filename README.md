@@ -1,5 +1,7 @@
 # You don't (may not) need Moment.js
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/You-Dont-Need-Momentjs.svg)](https://www.staging.guardrails.io)
+
 [Moment.js](https://momentjs.com/) is a fantastic time & date library with lots of great features and utilities. However, if you are working on a performance sensitive web application, it might cause a huge performance overhead because of its complex APIs and large bundle size.
 
 ![Large bundle size](./screenshot.png)
